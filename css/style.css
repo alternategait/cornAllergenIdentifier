@@ -1,0 +1,69 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+html{
+  font-size: 62.5%;
+}
+
+body {
+  margin: 20px;
+  background :linear-gradient(200deg, lightblue, cyan 20%, teal, grey, darkslategrey);
+  background-repeat: none;
+  height: 300vh;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+label, input {
+  font-size: 1.4rem; 
+}
+h1 {
+  font-size: 5rem;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: purple;
+}
+
+button {
+  font-size: 1.4rem;
+  margin: 20px auto;
+  display: block;
+}
+
+table {
+  margin: 20px auto;
+}
+table, th, td {
+  border: 1px solid; 
+  font-size: 1.4rem;
+  background: rgba(225, 225, 225, 0.5) ;
+}
+
+img {
+  height: 30vh;
+  display: block;
+  margin: 20px auto;
+  background-size: cover;
+}
+
+.non-veg-item, .has-corn{
+  background-color: red;
+}
+
+.unknown-maybe-item {
+  background-color: yellow;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
