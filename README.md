@@ -6,6 +6,7 @@ This website accepts a barcode and uses it to fetch ingredient information from 
 
 ### How It's Made
 Tech used: HTML, CSS, client side Javascript.
+
 This project initially was designed to get comfortable with fetching information from APIs and digesting information in the form of JSON. While I was working on it I noticed that it had allergen information included in the API, but only for most common allergens (soy, egg, milk, tree nuts"). I have friends with unusual allergies so I wanted a project that would be helpful for them. I struggled trying to check more than one ingredient. Corn is obvious in corn starch or corn oil, but less so as maltodextrin. 
 
 ### Optimizations
