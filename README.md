@@ -1,6 +1,6 @@
 # cornAllergenIdentifier
 
-This website accepts a barcode and uses it to fetch ingredient information from World Foods Database. It then compares ingredients to a list of corn allergen ingredients and indicates if an ingredient may contribute to an allergy. 
+This website accepts a barcode and uses it to fetch ingredient information from [Open Food Facts Database](https://world.openfoodfacts.org/data). It then compares ingredients to a list of corn allergen ingredients and indicates if an ingredient may contribute to an allergy. 
 
 ![project-image03](https://user-images.githubusercontent.com/102367926/182495927-6af46b4a-ccf8-476d-b819-e639ec0ecabc.png)
 
